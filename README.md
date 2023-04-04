@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhsharan Singh Sethi</h1>
-<h3 align="center">1B Honours Mathematics Student at UofWaterloo</h3>
+<h3 align="center">1B Honours Mathematics and Computer Science Student at UofWaterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhsharan1" /> </p>
 
