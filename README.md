@@ -1,7 +1,7 @@
 [![Header](https://readme-typing-svg.demolab.com?font=Nabla&size=48&duration=2500&pause=500&color=F26C1F&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+nice+to+meet+you!;Ciao%2C+piacere+di+conoscerti!;Privet!+Rad+tebya+videt'!;%C2%A1Hola+mucho+gusto!;Bonjour+heureux+de+vous+rencontrer!;%E4%BD%A0%E5%A5%BD%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81)](https://git.io/typing-svg)
 <img align="right" width=20% height=40% alt="robo" src="https://media2.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif" />
 <h1 align="center">Hi 👋, I'm Prabhsharan Singh Sethi</h1>
-<h3 align="center">1B Honours Mathematics and Computer Science Student at UofWaterloo</h3>
+<h3 align="center"> Honours Mathematics and Computer Science Student at UofWaterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile%20views&color=0e75b6&style=flat" alt="prabhsharan1" /> </p>
 
