@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhsharan1" alt="prabhsharan1" /></a> </p>
 
-- 🔭 I’m currently working on [Making my own website](https://prabhsharansinghsethi.w3spaces.com/)
+- 🔭 I’m currently working on [Making my own website](https://prabhsharan1.github.io/)
 
-- 🌱 I’m currently learning **Racket**
+- 🌱 I’m currently learning **CS136**
 
 - 👯 I’m looking to collaborate on **I want to collaborate on challenging and interesting projects that allow me to learn and apply new skills.**
 
