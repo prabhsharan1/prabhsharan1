@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **I am seeking help with improving my skills in data structures and algorithms, as well as gaining experience in machine learning and software development methodologies.**
 
-- 💬 Ask me about **Python, C, C++ , Java**
+- 💬 Ask me about **Anime the one I am currently watching is DEMON SLAYER**
 
-- ⚡ Fun fact **I enjoy participating in coding competitions and hackathons, and I also have a keen interest in the history of computing and the pioneers who shaped the field of computer science**
+- ⚡ Fun fact **In the anime series "One Piece," the protagonist Monkey D. Luffy's signature straw hat was originally owned by the pirate Gol D. Roger, adding an intriguing layer of connection between the past and present within the storyline.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
