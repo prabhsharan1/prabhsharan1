@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=1000&height=75&lines=Hello+there!+I'm+Prabhsharan+Singh+Sethi;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation)](https://prabhsharan1.github.io/)
+<div align="center">
+  <a href="https://prabhsharan1.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=750&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation!" alt="Typing SVG">
+  </a>
+</div>
+
 
 ---
 
