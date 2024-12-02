@@ -1,9 +1,8 @@
 <div align="center">
-  <a href="https://prabhsharan1.github.io/">
+  <a href="https://lambent-churros-031c4a.netlify.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=750&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation!" alt="Typing SVG">
   </a>
 </div>
-
 
 ---
 
@@ -14,62 +13,39 @@
 ---
 
 ## 👋 About Me
-I'm an enthusiastic **Computer Science and Mathematics student at the University of Waterloo** with a passion for **web development, AI, and software engineering**. I love working on projects that make technology accessible and user-friendly. Currently, I'm enhancing my skills in **data structures and algorithms** and exploring **AI's potential in everyday applications**.
+I'm an enthusiastic **Computer Science and Mathematics student at the University of Waterloo** with a passion for **web development, AI, and software engineering**. I love tackling real-world problems through innovative technology and crafting seamless user experiences.
 
 ---
 
 ## 🌱 What I'm Working On
-- 🔭 Developing my own **3D Portfolio Website** [here](https://prabhsharan1.github.io/)
-- 🌱 Exploring **AI and Machine Learning** through personal projects and coursework
-- 🤝 Looking to collaborate on **open-source projects** and challenging software solutions
+- 🔭 Recently launched my interactive **[3D Portfolio Website](https://lambent-churros-031c4a.netlify.app/)**, blending creativity with technology  
+- 🌱 Exploring **AI and Machine Learning** to create smart and scalable applications  
+- 🤝 Open to collaborating on **open-source projects** and challenging solutions  
 
 ---
 
 ## 🛠️ Skills and Tools
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode" alt="Skill icons">
 </p>
 
 ---
 
 ## 💼 Projects
-### 🌐 [3D Portfolio Website](https://prabhsharan1.github.io/)
+### 🌐 [3D Portfolio Website](https://lambent-churros-031c4a.netlify.app/)
 **Tech Stack:** React, Three.js, Tailwind CSS  
-- Developed an interactive 3D portfolio to showcase my work and skills with smooth animations and modern UI.
-- Integrated REST APIs and used object-oriented programming principles for scalability.
+- Designed an interactive 3D portfolio to showcase projects and skills with smooth animations.  
+- Enhanced user experience using responsive design and optimized performance.  
 
 ### 🧮 [Taxparency App (OlympiHacks 2023)](https://github.com/prabhsharan1/taxparency)
 **Tech Stack:** JavaScript, NEAR framework, AssemblyScript  
-- Created a blockchain-based dApp that calculates tax returns automatically, ensuring transparency and security for users.
-- Implemented a user-friendly interface using Figma, HTML, and CSS.
+- Built a blockchain-based dApp that simplifies tax return calculations, ensuring transparency and security.  
+- Implemented a user-friendly interface using Figma, HTML, and CSS.  
 
 ### 🖼️ [Image Processing Fundamentals - Toyota Innovation Challenge](https://github.com/prabhsharan1/image-processing-fundamentals)
 **Tech Stack:** Python, OpenCV  
-- Built a real-time computer vision model to classify images and detect colors with an accuracy of 98%.
-- Employed feature engineering to ensure model robustness across various lighting conditions.
+- Developed a real-time computer vision model to classify images with an accuracy of 98%.  
+- Applied feature engineering to ensure robustness under varying lighting conditions.  
 
 ---
 
@@ -82,9 +58,9 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 ---
 
 ## 🎯 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/prabhsharan-singh-sethi/)
-- 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)
-- 💻 [LeetCode](https://www.leetcode.com/prabhsharansinghsethi)
+- 💼 [LinkedIn](https://linkedin.com/in/prabhsharan-singh-sethi/)  
+- 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)  
+- 💻 [LeetCode](https://www.leetcode.com/prabhsharansinghsethi)  
 
 ---
 
