@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lambent-churros-031c4a.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=750&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=850&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation!" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 ---
 
 ## 👋 About Me
-I'm an enthusiastic **Computer Science and Mathematics student at the University of Waterloo** with a passion for **web development, AI, and software engineering**. I love tackling real-world problems through innovative technology and crafting seamless user experiences.
+I'm an enthusiastic **Computer Science and Mathematics student at the University of Waterloo** with a passion for **web development, AI, and software engineering**. I enjoy tackling real-world problems through innovative technology and crafting seamless user experiences.
 
 ---
 
@@ -65,5 +65,5 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=24&pause=1000&color=42E5F4&center=true&vCenter=true&width=600&height=75&lines=Thank+you+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Thank you animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=22&pause=1000&color=42E5F4&center=true&vCenter=true&width=700&height=75&lines=Thank+you+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Thank you animation" />
 </div>
