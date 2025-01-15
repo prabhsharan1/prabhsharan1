@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://lambent-churros-031c4a.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=850&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Innovation+and+User+Experience!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=3AB4F2&center=true&vCenter=true&width=850&height=75&lines=Hello,+I'm+Prabhsharan+Singh+Sethi!;Computer+Science+and+Mathematics+Student;Frontend+Developer+and+AI+Enthusiast;Passionate+about+Design+and+Innovation!" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,18 +13,14 @@
 ---
 
 ## 👋 About Me
-I'm a **Computer Science and Mathematics student at the University of Waterloo** with a passion for **AI, web development, and creating impactful solutions**. My projects focus on combining **innovative technology with seamless design** to solve real-world problems.
-
-- 🛠️ Skilled in **Python, Java, TypeScript, and React**  
-- 🤝 Open to internships or co-op opportunities for Fall 2025  
-- 🌟 Always eager to collaborate, learn, and grow  
+I'm an enthusiastic **Computer Science and Mathematics student at the University of Waterloo** with a passion for **web development, AI, and software engineering**. I enjoy tackling real-world problems through innovative technology and crafting seamless user experiences.
 
 ---
 
 ## 🌱 What I'm Working On
-- 🔧 Building projects that blend **AI, design, and scalability**  
-- 🧩 Participating in **hackathons** to explore new technologies and solve meaningful problems  
-- 🌐 Enhancing my skills in **full-stack development and AI integration**  
+- 🔭 Recently launched my interactive **[3D Portfolio Website](https://lambent-churros-031c4a.netlify.app/)**, blending creativity with technology  
+- 🌱 Exploring **AI and Machine Learning** to create smart and scalable applications  
+- 🤝 Open to collaborating on **open-source projects** and challenging solutions  
 
 ---
 
@@ -36,20 +32,20 @@ I'm a **Computer Science and Mathematics student at the University of Waterloo**
 ---
 
 ## 💼 Projects
-### 🌟 [Blissify](https://github.com/prabhsharan1/blissify)  
-**Tech Stack:** React, TypeScript, Tailwind CSS, Web Audio API  
-- Designed a **mental wellness application** featuring emotion tracking, guided meditations, and interactive activities.  
-- Leveraged **AI-powered insights** and voice guidance to provide a personalized user experience.
+### 🌐 [3D Portfolio Website](https://lambent-churros-031c4a.netlify.app/)
+**Tech Stack:** React, Three.js, Tailwind CSS  
+- Designed an interactive 3D portfolio to showcase projects and skills with smooth animations.  
+- Enhanced user experience using responsive design and optimized performance.  
 
-### 📊 [SmartContent (Hackathon Winner)](https://fresh-hacks-23013.devpost.com/)  
-**Tech Stack:** React, Google Gemini API, Tailwind CSS  
-- Developed an **AI-powered content analysis platform** with features like intelligent tagging, instant summaries, and real-time suggestions.  
-- Ensured robust data handling with Chrome’s **Prompt API**, maintaining privacy and security.
+### 🧮 [Taxparency App (OlympiHacks 2023)](https://github.com/prabhsharan1/taxparency)
+**Tech Stack:** JavaScript, NEAR framework, AssemblyScript  
+- Built a blockchain-based dApp that simplifies tax return calculations, ensuring transparency and security.  
+- Implemented a user-friendly interface using Figma, HTML, and CSS.  
 
-### 🕹️ [Flappy Bird 2D Game](https://github.com/prabhsharan1/flappy-bird)  
-**Tech Stack:** Unity, C#, C++  
-- Built a **2D game** with dynamic obstacle generation and smooth gameplay using **collision detection** and **performance optimizations**.  
-- Delivered an engaging user experience through intuitive controls and responsive design.
+### 🖼️ [Image Processing Fundamentals - Toyota Innovation Challenge](https://github.com/prabhsharan1/image-processing-fundamentals)
+**Tech Stack:** Python, OpenCV  
+- Developed a real-time computer vision model to classify images with an accuracy of 98%.  
+- Applied feature engineering to ensure robustness under varying lighting conditions.  
 
 ---
 
@@ -63,12 +59,11 @@ I'm a **Computer Science and Mathematics student at the University of Waterloo**
 
 ## 🎯 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/prabhsharan-singh-sethi/)  
-- 🌐 [Portfolio Website](https://lambent-churros-031c4a.netlify.app/)  
 - 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)  
-- 🧩 [LeetCode](https://www.leetcode.com/prabhsharansinghsethi)  
+- 💻 [Devpost](https://devpost.com/prabhsharans0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=22&pause=1000&color=42E5F4&center=true&vCenter=true&width=700&height=75&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+great+%F0%9F%9A%80!" alt="Thank you animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=22&pause=1000&color=42E5F4&center=true&vCenter=true&width=700&height=75&lines=Thank+you+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Thank you animation" />
 </div>
