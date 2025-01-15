@@ -59,8 +59,7 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 
 ## 🎯 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/prabhsharan-singh-sethi/)  
-- 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)  
-- 💻 [LeetCode](https://www.leetcode.com/prabhsharansinghsethi)  
+- 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)   
 
 ---
 
