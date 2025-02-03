@@ -37,15 +37,16 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 - Designed an interactive 3D portfolio to showcase projects and skills with smooth animations.  
 - Enhanced user experience using responsive design and optimized performance.  
 
-### 🧮 [Taxparency App (OlympiHacks 2023)](https://github.com/prabhsharan1/taxparency)
-**Tech Stack:** JavaScript, NEAR framework, AssemblyScript  
-- Built a blockchain-based dApp that simplifies tax return calculations, ensuring transparency and security.  
-- Implemented a user-friendly interface using Figma, HTML, and CSS.  
+### ✨ [Smart-Content (Fresh Hacks Winner)](https://github.com/prabhsharan1/smart-content)  
+**Tech Stack:** **_React_**, **_TypeScript_**, **_Google Gemini API_**  
+- Developed AI-driven features like intelligent tagging, instant summaries, and context-aware suggestions, improving user productivity.  
+- Integrated **_Google Gemini API_** for real-time text analysis while ensuring privacy with Chrome’s Prompt API and seamless UI/UX with **_Tailwind CSS_**.  
 
-### 🖼️ [Image Processing Fundamentals - Toyota Innovation Challenge](https://github.com/prabhsharan1/image-processing-fundamentals)
-**Tech Stack:** Python, OpenCV  
-- Developed a real-time computer vision model to classify images with an accuracy of 98%.  
-- Applied feature engineering to ensure robustness under varying lighting conditions.  
+### 🧩 [Math Quest Escape Room (CodePi Best Educational Value)](https://github.com/prabhsharan1/math-quest-escape)  
+**Tech Stack:** **_React_**, **_TypeScript_**, **_Framer Motion_**  
+- Built an interactive STEM escape room game with adaptive difficulty and real-time feedback, fostering math learning in an engaging way.  
+- Designed a responsive UI with **_Tailwind CSS_** and implemented dynamic animations using **_Framer Motion_** for an immersive experience.
+
 
 ---
 
