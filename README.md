@@ -24,19 +24,7 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 
 ---
 
-## 🛠️ Skills and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode" alt="Skill icons">
-</p>
-
----
-
-## 💼 Projects
-### 🌐 [3D Portfolio Website](https://lambent-churros-031c4a.netlify.app/)
-**Tech Stack:** React, Three.js, Tailwind CSS  
-- Designed an interactive 3D portfolio to showcase projects and skills with smooth animations.  
-- Enhanced user experience using responsive design and optimized performance.  
-
+## 🏆 Hackathon Projects (Winners)
 ### ✨ [Smart-Content (Fresh Hacks Winner)](https://github.com/prabhsharan1/smart-content)  
 **Tech Stack:** **_React_**, **_TypeScript_**, **_Google Gemini API_**  
 - Developed AI-driven features like intelligent tagging, instant summaries, and context-aware suggestions, improving user productivity.  
@@ -47,6 +35,17 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 - Built an interactive STEM escape room game with adaptive difficulty and real-time feedback, fostering math learning in an engaging way.  
 - Designed a responsive UI with **_Tailwind CSS_** and implemented dynamic animations using **_Framer Motion_** for an immersive experience.
 
+### 🧘 [Blissify (Mindfulness Hacks Winner)](https://github.com/prabhsharan1/blissify)  
+**Tech Stack:** **_React_**, **_Node.js_**, **_Express_**, **_MongoDB_**  
+- Developed a mindfulness app that offers guided meditations, breathing exercises, and AI-powered mood tracking.  
+- Integrated personalized recommendations based on user emotions and stress levels to enhance relaxation and mental well-being.
+
+---
+
+## 🛠️ Skills and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode" alt="Skill icons">
+</p>
 
 ---
 
@@ -54,14 +53,17 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhsharan1&show_icons=true&theme=tokyonight" alt="Prabhsharan's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhsharan1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🎯 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/prabhsharan-singh-sethi/)  
-- 📺 [YouTube](https://www.youtube.com/@prabhsharansinghsethi)  
-- 💻 [Devpost](https://devpost.com/prabhsharans0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
+<p align="center">
+  <a href="https://linkedin.com/in/prabhsharan-singh-sethi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@prabhsharansinghsethi"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://devpost.com/prabhsharans0?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://img.shields.io/badge/-Devpost-blue?style=flat-square&logo=devpost&logoColor=white" alt="Devpost"></a>
+</p>
 
 ---
 
