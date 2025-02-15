@@ -44,7 +44,7 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 
 ## 🛠️ Skills and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode" alt="Skill icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode,linux,figma" alt="Skill icons">
 </p>
 
 ---
@@ -70,3 +70,5 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=22&pause=1000&color=42E5F4&center=true&vCenter=true&width=700&height=75&lines=Thank+you+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Thank you animation" />
 </div>
+
+---
