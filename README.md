@@ -42,9 +42,12 @@ I'm an enthusiastic **Computer Science and Mathematics student at the University
 
 ---
 
-## 🛠️ Skills and Tools
+## 🛠️ Skills & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,java,c,cpp,cs,aws,figma,tailwind,docker,git,github,vscode,linux,figma" alt="Skill icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,cpp,cs,go,rust,php,swift,kotlin,bash" alt="Languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd,vscode,linux,git,github,docker,aws,azure,mysql,mongodb,postgresql,sqlite" alt="Tools & Frameworks" /><br><br>
+  <img src="https://skillicons.dev/icons?i=unity,threejs,vercel,netlify,npm,postman,prisma,redux,graphql,jest" alt="More Tools" />
 </p>
 
 ---
