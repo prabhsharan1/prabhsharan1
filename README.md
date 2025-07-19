@@ -22,7 +22,7 @@
 > “If the code crashes, I don’t patch it—I tear it down and rebuild it stronger.”
 
 🔥 **Honours Math @ University of Waterloo**  
-🏆 **4x Hackathon Champion** | 🧠 **Devpost Winner Level 7**  
+🏆 **4+ Hackathon Wins** | 🧠 **Devpost Winner Level 7**  
 🛠️ **You don’t need a CS degree to be dangerous with code—just the will to break things.**
 
 I’ve built things that broke.  
