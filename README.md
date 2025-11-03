@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm **Prabhsharan Singh Sethi**
+### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm **Prabh**
 
 🎓 Honours **Applied Mathematics** (Scientific Computing & Scientific Machine Learning) @ **University of Waterloo**  
 💡 Passionate about building, optimizing, and experimenting with AI & immersive systems  
