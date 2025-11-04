@@ -1,37 +1,30 @@
-<div align="center">
-
 ### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm **Prabh**
 
 🎓 Honours **Applied Mathematics** (Scientific Computing & Scientific Machine Learning) @ **University of Waterloo**  
 💡 Passionate about building, optimizing, and experimenting with AI & immersive systems  
 
-</div>
-
 ---
 
 ### 🚀 About Me  
-- I’m a developer who enjoys competing in hackathons *(Need a hackathon buddy? **Feel free to connect** 👋)*  
-- Currently diving into **Unreal Engine** (yes, because of Fortnite) & continuously refining my **developer portfolio** (never-ending project)  
+- Developer who enjoys competing in hackathons *(Need a hackathon buddy? **Feel free to connect** 👋)*  
+- Currently diving into **Unreal Engine** (yes, because of Fortnite) & refining my **developer portfolio** *(never-ending project)*  
 
 ---
 
 ### 🧠 Tech Stack  
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go,rust,react,nextjs,tailwind,framermotion,nodejs,express,mongodb,postgresql,graphql,unity,unreal,docker,githubactions,prisma,redux,vscode,aws,figma,xd" />
-</div>
+</p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Insights  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhsharan1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhsharan1&theme=github-dark-blue&hide_border=true" width="420" />
-  <div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsharan1&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="420" />
   <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" width="120" />
-  </div>
-</div>
+</p>
 
 ---
 
@@ -54,6 +47,6 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Build.+Break.+Learn.+Repeat." alt="Typing footer" />
-</div>
+</p>
