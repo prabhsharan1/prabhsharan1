@@ -28,7 +28,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsharan1&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="400" />
       <br/>
-      <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" width="200" />
+      <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" width="100" />
     </td>
     
   <td>
