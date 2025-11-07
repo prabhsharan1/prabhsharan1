@@ -44,16 +44,23 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:pssethi@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://devpost.com/prabhsharans0">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white" alt="Devpost" />
+    <img src="https://www.svgrepo.com/show/330293/devpost.svg" width="40" height="40" alt="Devpost" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/prabhsharan1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
   </a>
 </p>
 
