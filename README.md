@@ -42,7 +42,7 @@
 
 ### 🌐 Connect With Me  
 
-<p align="center">
+
   <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
@@ -62,7 +62,7 @@
   <a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
     <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
   </a>
-</p>
+
 
 ---
 
