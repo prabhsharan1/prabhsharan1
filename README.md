@@ -40,28 +40,30 @@
 
 ---
 
-### 🌐 Connect With Me  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M21O6FLR)
+
+### 🌐 Connect With Me  
 
 
-  <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pssethi@uwaterloo.ca">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://devpost.com/prabhsharans0">
-    <img src="https://www.svgrepo.com/show/330293/devpost.svg" width="40" height="40" alt="Devpost" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/prabhsharan1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
-  </a>
+  <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pssethi@uwaterloo.ca">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://devpost.com/prabhsharans0">
+    <img src="https://www.svgrepo.com/show/330293/devpost.svg" width="40" height="40" alt="Devpost" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/prabhsharan1">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
+  </a>
 
 
 ---
