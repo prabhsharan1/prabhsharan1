@@ -40,32 +40,35 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me  
 
+<a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pssethi@uwaterloo.ca">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://devpost.com/prabhsharans0">
-    <img src="https://www.svgrepo.com/show/330293/devpost.svg" width="40" height="40" alt="Devpost" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/prabhsharan1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
-    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
-  </a>
+<a href="mailto:pssethi@uwaterloo.ca">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://devpost.com/prabhsharans0">
+<img src="https://www.svgrepo.com/show/330293/devpost.svg" width="40" height="40" alt="Devpost" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/prabhsharan1">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@prabhsharansinghsethi/videos">
+<img src="https://img.icons8.com/fluency/48/youtube-play.png" width="40" height="40" alt="YouTube" />
+</a>
 
 
 ---
 
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Build.+Break.+Learn.+Repeat." alt="Typing footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Build.+Break.+Learn.+Repeat." alt="Typing footer" />
 
