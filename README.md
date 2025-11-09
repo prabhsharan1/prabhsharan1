@@ -40,6 +40,10 @@
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M21O6FLR)
+
+---
+
 ### 🌐 Connect With Me  
 
 <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
