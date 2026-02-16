@@ -1,87 +1,55 @@
-<div align="center">
+### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="hi">, I'm **Prabh**
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prabh;Applied+Math+%26+Scientific+Computing;Building+AI+%2B+Immersive+Systems" alt="Typing SVG" />
-  </a>
+🎓 Honours **Applied Mathematics** (Scientific Computing & Scientific Machine Learning) @ **University of Waterloo**  
+💡 Passionate about building, optimizing, and experimenting with AI & immersive systems
 
-  <h3 align="center">📍 University of Waterloo | 🚀 Full Stack & ML Developer</h3>
+---
 
-  <p align="center">
-    Optimizing algorithms, building immersive systems, and bridging the gap between <br>
-    <b>Theoretical Math</b> and <b>Production Code</b>.
-  </p>
+### 🚀 About Me
+- Developer who enjoys competing in hackathons — *need a hackathon buddy? feel free to connect.* 👋  
+- Diving into **Unreal Engine** (yes, because of Fortnite) & continuously refining my **developer portfolio**.
 
-  <p align="center">
-    <a href="https://linkedin.com/in/prabhsharan-singh-sethi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:pssethi@uwaterloo.ca" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.com/users/prabhsharan" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </p>
+---
 
-</div>
+### 🧠 Tech Stack  
 
-<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go,rust,react,nextjs,tailwind,framermotion,nodejs,express,mongodb,postgresql,graphql,unity,unreal,docker,githubactions,prisma,redux,vscode,aws,figma,xd" />
 
-<h3 align="center">⚡ Technologies & Tools</h3>
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td><img src="https://skillicons.dev/icons?i=python,cpp,ts,matlab,bash,rust&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>AI & Data</b></td>
-      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Web & Game</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,threejs,unreal,unity&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>DevOps</b></td>
-      <td><img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postgres,mongodb,vscode&theme=dark" /></td>
-    </tr>
-  </table>
 
-</div>
+---
 
-<br/>
+### 📊 GitHub Insights
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<table>
+  <tr>
+    <td valign="top">
+      <!-- Top languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsharan1&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="420" alt="top langs" />
+      <br/>
+      <!-- Profile views -->
+      <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" width="120" alt="profile views" />
+    </td>
+    <td valign="top">
+      <!-- Local gif file (keep file in repo root). URL-encode spaces or rename file to remove spaces. -->
+      <img src="./Miles%20Morales%20GIF.gif" width="420" alt="Miles Morales Leap of Faith" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=prabhsharan1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Prabh's Stats" width="450" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsharan1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhsharan1&theme=radical&hide_border=true" alt="Streak" />
-</div>
+---
 
-<br/>
+### 🌐 Connect with me
 
-<h3 align="center">🐍 Contributions</h3>
-<div align="center">
-  <img src="https://github.com/prabhsharan1/prabhsharan1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhsharan-singh-sethi/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pssethi@uwaterloo.ca)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prabhsharan01)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/prabhsharan)
 
-<br/>
-<br/>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views" />
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=500&height=50&lines=Build.+Break.+Learn.+Repeat." alt="Typing footer" />
+</p>
+
+
+Provide a better code for readme for github with all the good stuff and workflows and how to implement it
