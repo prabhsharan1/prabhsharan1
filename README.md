@@ -1,61 +1,42 @@
-### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="hi">, I'm **Prabh**
-
-🎓 Honours **Applied Mathematics** (Scientific Computing & Scientific Machine Learning) @ **University of Waterloo** 💡 Passionate about building, optimizing, and experimenting with AI & immersive systems.
-
----
-
-### 🚀 About Me
-- 👨‍💻 Developer who enjoys competing in hackathons — *need a hackathon buddy? feel free to connect.* 👋  
-- 🎮 Diving into **Unreal Engine** (yes, because of Fortnite) & continuously refining my **developer portfolio**.
-
----
-
-### 🧠 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=70&lines=Hi+I%27m+Prabh+%F0%9F%91%8B;6X+Hackathon+Winner+%F0%9F%8F%86;Welcome+to+my+Github+<3" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go,rust,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,graphql,unity,unreal,docker,aws,figma&perline=14" />
+  <img src="https://img.shields.io/badge/University%20of%20Waterloo-Applied%20Mathematics-FFD54F?style=flat-square&logo=university-of-waterloo&logoColor=black" />
+  <img src="https://img.shields.io/badge/with-Scientific%20Computing%20%26%20SciML-FFD54F?style=flat-square&logoColor=black" />
 </div>
 
 ---
 
-### 📊 GitHub Insights
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhsharan1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhsharan1&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhsharan1&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,js,ts,java,c,cs,swift,r,go&perline=11" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,graphql,supabase,tailwind&perline=10" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,linux,git,splunk,tableau,figma&perline=10" />
 </div>
 
 ---
 
-### 🌐 Connect with me
+### ✉️ Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/prabhsharan-singh-sethi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
+  <a href="https://devpost.com/prabhsharans0">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@prabhsharansinghsethi/shorts">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="mailto:pssethi@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/prabhsharan01">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
   <a href="https://discord.com/users/prabhsharan">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Build.+Break.+Learn.+Repeat." alt="Typing footer" />
-</p>
